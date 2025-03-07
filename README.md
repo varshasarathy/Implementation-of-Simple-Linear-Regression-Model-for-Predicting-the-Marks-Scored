@@ -70,7 +70,6 @@ print('MAE= ',mae)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
 ![image](https://github.com/user-attachments/assets/69c683cb-8223-4b9b-9078-30429b7654d3)
 ![image](https://github.com/user-attachments/assets/5f749ec6-06c3-4cae-a93a-cf8104230e9a)
 
